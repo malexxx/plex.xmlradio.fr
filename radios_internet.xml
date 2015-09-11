@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Radios Internet</title>
+		<description>Liste des web radios</description>
+		<item>
+			<title>JAZZ Radio FUNK</title>
+			<description>...</description>
+			<url>http://jazz-wr06.ice.infomaniak.ch/jazz-wr06-128.mp3</url>
+			<ext>mp3</ext>
+			<thumb>http://www.jazzradio.fr/media/radios/thumb/80x80_funk.png</thumb>
+		</item>
+		<item>
+			<title>JAZZ Radio ELECTRO SWING</title>
+			<description>...</description>
+			<url>http://jazz-wr04.ice.infomaniak.ch/jazz-wr04-128.mp3</url>
+			<ext>mp3</ext>
+			<thumb>http://www.jazzradio.fr/media/radios/thumb/80x80_electro-swing.png</thumb>
+		</item>
+		<item>
+			<title>JAZZ Radio LOUNGE</title>
+			<description>...</description>
+			<url>http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3</url>
+			<ext>mp3</ext>
+			<thumb>http://www.jazzradio.fr/media/radios/thumb/80x80_lounge.png</thumb>
+		</item>
+		<item>
+			<title>JAZZ Radio CHRISTMAS JAZZ</title>
+			<description>...</description>
+			<url>http://jzr-christmas.ice.infomaniak.ch/jzr-christmas.mp3</url>
+			<ext>mp3</ext>
+			<thumb>http://www.jazzradio.fr/media/radios/thumb/80x80_christmas-jazz1.png</thumb>
+		</item>
+		<item>
+			<title>BARBOUILLOTS</title>
+			<description>Radio Barbouillots est la radio des enfants et des parents d'aujourd'hui. Une programmation musicale variée et adaptée à toute la famille. Retrouvez chaque jour des contes, des berceuses pour bébé, des activités, des jeux et des chansons pour les tout-petits...</description>
+			<url>http://streaming.radionomy.com/Radio-Barbouillots</url>
+<thumb>http://static.wixstatic.com/media/9ef047_3a725c6365964931b30881f0e5123ee2.png_srz_p_130_128_75_22_0.50_1.20_0.00_png_srz</thumb>
+			<ext>mp3</ext>
+		</item>
+		<item>
+			<title>Pomme d'api</title>
+			<description>Radio Pomme d'api, le meilleur de la musique et des chansons pour enfants de 3 à 7 ans, des comptines, des histoires et des poésies sur la première radio.</description>
+			<url>http://api.radiopommedapi.com/radio.mp3</url>
+			<ext>mp3</ext>
+			<thumb>http://fabuleusesaufoyer.com/wp-content/uploads/2014/09/radio.jpg</thumb>
+		</item>
+		<item>
+			<title>DOUDOU</title>
+			<description>Radio Doudou est la première radio en diffusion continue exclusivement dédiée aux bébés.</description>
+			<url>http://37.58.75.163:8744/stream</url>
+			<ext>mp3</ext>
+			<thumb>http://www.famili.fr/data/photo/w290_h290_c18/3z/radiodoudou.jpg</thumb>
+		</item>
+		<item>
+			<title>MFM Comptine</title>
+			<description>MFM Comptines (128kbps) - Vos plus belle comptines infantiles et musiques d'enfants c'est sur MFM 100% Comptines</description>
+			<url>http://mfm-wr11.ice.infomaniak.ch/mfm-wr11.mp3</url>
+			<ext>mp3</ext>
+			<thumb>http://mfmradio.fr/media/radios/80x80_webradio-mfm-512x512-comptine3.png</thumb>
+		</item>
+
+
+
+	</channel>
+</rss>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
